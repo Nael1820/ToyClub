@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maki.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maki0000" x="34" y="34" width="185" height="328" frameX="0" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0001" x="34" y="34" width="185" height="328" frameX="0" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0002" x="319" y="34" width="183" height="332" frameX="-2" frameY="-15" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0003" x="319" y="34" width="183" height="332" frameX="-2" frameY="-15" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0004" x="602" y="34" width="183" height="331" frameX="-2" frameY="-16" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0005" x="602" y="34" width="183" height="331" frameX="-2" frameY="-16" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0006" x="885" y="34" width="185" height="327" frameX="0" frameY="-20" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0007" x="885" y="34" width="185" height="327" frameX="0" frameY="-20" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0008" x="1170" y="34" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0009" x="1170" y="34" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0010" x="1453" y="34" width="183" height="332" frameX="-2" frameY="-15" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0011" x="1453" y="34" width="183" height="332" frameX="-2" frameY="-15" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0012" x="1736" y="34" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0013" x="1736" y="34" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0014" x="34" y="468" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0015" x="34" y="468" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0016" x="317" y="468" width="183" height="331" frameX="-2" frameY="-16" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0017" x="317" y="468" width="183" height="331" frameX="-2" frameY="-16" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0018" x="600" y="468" width="183" height="326" frameX="-2" frameY="-21" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0019" x="600" y="468" width="183" height="326" frameX="-2" frameY="-21" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0020" x="883" y="468" width="183" height="333" frameX="-2" frameY="-14" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0021" x="883" y="468" width="183" height="333" frameX="-2" frameY="-14" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0022" x="1166" y="468" width="183" height="330" frameX="-2" frameY="-17" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0023" x="1166" y="468" width="183" height="330" frameX="-2" frameY="-17" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0024" x="1449" y="468" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0025" x="1449" y="468" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0026" x="1449" y="468" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0027" x="1449" y="468" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0028" x="1732" y="468" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0029" x="1732" y="468" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0030" x="1732" y="468" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0031" x="1732" y="468" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0032" x="34" y="902" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0033" x="34" y="902" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0034" x="34" y="902" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0035" x="34" y="902" width="183" height="328" frameX="-2" frameY="-19" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0036" x="317" y="902" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0037" x="317" y="902" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0038" x="317" y="902" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0039" x="317" y="902" width="183" height="334" frameX="-2" frameY="-13" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0040" x="600" y="902" width="183" height="347" frameX="-2" frameY="0" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0041" x="600" y="902" width="183" height="347" frameX="-2" frameY="0" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0042" x="883" y="902" width="183" height="345" frameX="-2" frameY="-2" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0043" x="883" y="902" width="183" height="345" frameX="-2" frameY="-2" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0044" x="1166" y="902" width="183" height="344" frameX="-2" frameY="-3" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0045" x="1166" y="902" width="183" height="344" frameX="-2" frameY="-3" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0046" x="1449" y="902" width="183" height="345" frameX="-2" frameY="-2" frameWidth="185" frameHeight="347"/>
+	<SubTexture name="maki0047" x="1449" y="902" width="183" height="345" frameX="-2" frameY="-2" frameWidth="185" frameHeight="347"/>
+</TextureAtlas>
